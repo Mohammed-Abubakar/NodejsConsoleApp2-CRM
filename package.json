@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-console-app2-crm",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp2 CRM",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
